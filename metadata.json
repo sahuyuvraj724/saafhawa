@@ -1,0 +1,6 @@
+{
+  "name": "SaafHawa",
+  "description": "Urban Air Quality Assistant for Indian cities with live AQI, best outdoor hours, low-emission planner, indoor AQI hacks, and mask & exercise guidance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
